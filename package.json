@@ -23,7 +23,7 @@
   "homepage": "https://github.com/InsonusK/github-actions-get-latest-release#readme",
   "dependencies": {
     "@actions/core": "^1.2.4",
-    "@actions/github": "^4.0.0",
+    "@actions/github": "^6.0.0",
     "@tsconfig/recommended": "^1.0.1"
   }
 }
